@@ -2,8 +2,8 @@
 
 ## Installation
 
-`npm install ups -g`
+`npm install ups-status -g`
 
 ## Usage
 
-`ups <trackingnumber>`
+`ups-status <trackingnumber>`
