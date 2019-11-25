@@ -1,0 +1,19 @@
+{
+  "name": "ups-status",
+  "version": "1.0.0",
+  "description": "Check the delivery status of an UPS Parcel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannystey/ups.git"
+  },
+  "author": "Danny Stey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannystey/ups/issues"
+  },
+  "homepage": "https://github.com/dannystey/ups#readme"
+}
