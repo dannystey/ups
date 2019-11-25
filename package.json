@@ -1,8 +1,11 @@
 {
   "name": "ups-status",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Check the delivery status of an UPS Parcel",
   "main": "index.js",
+  "bin": {
+    "teambox": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
